@@ -1,7 +1,7 @@
 #Goldeneye Revenge by Callum Taylor 2012
 
 ##About
-Goldeneye revenge was a College project for Games Development. We were taught to use Dark Basic to make our game, but because I saw this as the perfect oportunity to learn C++, I created my game in C++.
+Goldeneye revenge was a College project for Games Development. We were taught to use Dark Basic to make our game, but because I saw this as the perfect opportunity to learn C++, I created my game in C++.
 
 The game wasn't finished because I had the chance to finish college early which allowed me to go full time earlier at my job at 3 SIDED CUBE.
 
@@ -10,15 +10,15 @@ The code is by NO means good. It was something I hacked together in a matter of 
 
 The game has controller support using XINPUT and should work with most controllers, but I only tested with an XBOX 360 controller.
 
-Because I suck at moddeling, the models used were downloaded for misc websites which were then manipulated a little to do what I needed them to.
+Because I suck at modelling, the models used were downloaded for misc websites which were then manipulated a little to do what I needed them to.
 
-Collision detection was the hardest part about the game, as I didnt fully understand how to interact with the maps, I left it out.
+Collision detection was the hardest part about the game, as I didn't fully understand how to interact with the maps, I left it out.
 
 ##Sound
 It was surprisingly hard to find a good sound library, so I ended up using OpenAL (which absolutely sucks) and so the game will most likely have no sound.
 
 ##Playing
-The repository has a folder called "game" which contains the executable to play the game. You can't really do much so dont get too excited.
+The repository has a folder called "game" which contains the executable to play the game. You can't really do much so don't get too excited.
 
 ##Screenshots
 [![][1]][8]
@@ -30,7 +30,7 @@ The repository has a folder called "game" which contains the executable to play 
 [![][7]][14]
 
 ##License
-The source codes are absolutely free to use and come without warrenty. Use at your own risk etc etc.
+The source codes are absolutely free to use and come without warranty. Use at your own risk etc etc.
 
 [1]: http://s.scruffyfox.me/1thumb.png
 [2]: http://s.scruffyfox.me/2thumb.png
